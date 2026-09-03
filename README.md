@@ -1,4 +1,4 @@
-
+<img src="./banner-image.png" alt="Rumki Akter - Aspiring Web Developer" width="100%">
 <h1 align="center">Hi 👋, I'm Rumki Akter</h1>
 <h3 align="center">A passionate frontend developer from BD</h3>
 
